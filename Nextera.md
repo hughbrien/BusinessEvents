@@ -8,11 +8,14 @@ Leading Energy Provider: NextEra Energy is the largest electric utility holding 
 2. Diverse Energy Portfolio: The company generates electricity from various sources, including wind, solar, natural gas, nuclear, and oil
 4. 1. It is particularly noted for being the world's largest generator of renewable energy from wind and solar
    2. Subsidiaries: NextEra Energy's subsidiaries include
-   3. Florida Power & Light (FPL), NextEra Energy Resources (NEER),
-   4. NextEra Energy Partners,
-   5. Gulf Power Company, and
-   6. NextEra Energy Services 1. FPL is the largest subsidiary, serving around 12 million people in Florida 2.
+   3. Florida Power & Light (FPL),
+   4. NextEra Energy Resources (NEER),
+   5. NextEra Energy Partners,
+   6. Gulf Power Company
+   7. NextEra Energy Services
+   
 
-Investment in Infrastructure: NextEra Energy is heavily invested in U.S. energy infrastructure, with plans to invest approximately $120 billion over the next four years 2.
+- FPL is the largest subsidiary, serving around 12 million people in Florida
+- Investment in Infrastructure: NextEra Energy is heavily invested in U.S. energy infrastructure, with plans to invest approximately $120 billion over the next four years 2.
 
-Operational Excellence: The company is known for its operational excellence and commitment to providing reliable, low-cost power to its customers 2.
+Operational Excellence: The company is known for its operational excellence and commitment to providing reliable, low-cost power to its customers 
