@@ -6,7 +6,6 @@ Leading Energy Provider: NextEra Energy is the largest electric utility holding 
 
 1. It operates across 49 states in the U.S. and 4 Canadian provinces
 2. Diverse Energy Portfolio: The company generates electricity from various sources, including wind, solar, natural gas, nuclear, and oil
-3.
 4. 1. It is particularly noted for being the world's largest generator of renewable energy from wind and solar
    2. Subsidiaries: NextEra Energy's subsidiaries include
    3. Florida Power & Light (FPL), NextEra Energy Resources (NEER),
